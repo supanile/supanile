@@ -1,7 +1,7 @@
 Hi 👋 My name is Supawit Saengrattanayon
 ========================================
 
-Student at KMITL
+Student at King mongkut's institute of technology ladkrabang
 ----------------
 
 I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Software Engineer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of software development.
