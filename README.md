@@ -1,4 +1,4 @@
-Hi 👋 My name is Supawit Saengrattanayon
+Hi 👋 My name is Supawit Sangrattanayon
 ========================================
 
 Student at King Mongkut's Institute of Technology Ladkrabang
