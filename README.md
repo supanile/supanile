@@ -4,7 +4,7 @@ Hi 👋 My name is Supawit Sangrattanayon
 Student at King Mongkut's Institute of Technology Ladkrabang
 ----------------
 
-I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Software Engineer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of software development.
+I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Data Engineer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of Data.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Click!](http://supawit.com)
