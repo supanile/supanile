@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at King Mongkut's Institute of Technology Ladkrabang
 ------------------------------------------------------------
 
-I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Data Engineer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of Data.
+I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Data Engineer and Developer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of Data and Dev.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Click!](http://click.com)
