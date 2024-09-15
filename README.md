@@ -30,11 +30,18 @@
 
 ### :woman_technologist: About Me :
 
-I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Data Engineer and Developer, combining my mathematical skills with a love for coding. Currently on a journey of learning and growth in the world of Data and Dev.
+I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Full-Stack Developer, combining my mathematical background with a love for coding. Currently on a journey of learning and growth in the world of software development.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [Click!](http://click.com)
-* ✉️  You can contact me at [supawit.nile@gmail.com](mailto:supawit.nile@gmail.com)
+* 🌍 I'm based in Bangkok, Thailand
+* 🖥️ See my portfolio at [Click!](#)
+* ✉️ You can contact me at supawit.nile@gmail.com
+* 🚀 Skills: JavaScript, Python, React, Node.js, SQL, RESTful APIs
+* 🔭 I'm currently working on [A Full-Stack Web Application]
+* 🌱 I'm currently learning [Docker and Kubernetes]
+* 👯 I'm looking to collaborate on open-source projects and innovative web applications
+* 🥅 2024 Goals: Contribute to 5 open-source projects and build a robust personal project
+* ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+* 🗣 Languages: Thai (Native), English (Fluent)
 
 ---
 
