@@ -20,9 +20,10 @@
   <a href="https://www.tiktok.com/@supawitsaeng" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=supanile&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=supanile&style=flat-square&color=blue" alt="account counter" align="center"/>
 
 <!--
 **supanile/supanile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
