@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb282N3h2cWlwaHd6ZW1yM3g3MXE0NWw0YWh1enJtdDZxbHZjN3R0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
-
+https://giphy.com/embed/3oKIPnAiaMCws8nOsE
 <!--
 **supanile/supanile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
