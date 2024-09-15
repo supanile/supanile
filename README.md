@@ -40,7 +40,7 @@ I'm a passionate student at KMITL, specializing in Applied Mathematics within th
 * 🌱 I'm currently learning [Docker and Kubernetes]
 * 👯 I'm looking to collaborate on open-source projects and innovative web applications
 * 🥅 2024 Goals: Contribute to 5 open-source projects and build a robust personal project
-* ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+* ⚡ Fun fact: I can type at a speed of 60 words per minute!
 * 🗣 Languages: Thai (Native), English (Fluent)
 
 ---
