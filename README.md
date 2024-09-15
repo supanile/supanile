@@ -1,6 +1,6 @@
-## Hi My name is Supawich Sangrattanayon👋
+# Hi My name is Supawich Sangrattanayon👋
 
-# Student at King Mongkut's Institute of Technology Ladkrabang
+## Student at King Mongkut's Institute of Technology Ladkrabang
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb282N3h2cWlwaHd6ZW1yM3g3MXE0NWw0YWh1enJtdDZxbHZjN3R0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
