@@ -6,7 +6,26 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb282N3h2cWlwaHd6ZW1yM3g3MXE0NWw0YWh1enJtdDZxbHZjN3R0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 
-<div class="social-links">
+<style>
+    .social-links a {
+        outline: none; /* ลบเส้นขอบเมื่อมีการโฟกัส */
+        box-shadow: none; /* ลบเงาที่อาจเกิดขึ้น */
+    }
+
+    /* ปรับการแสดงผลของลิงก์ให้จัดเรียงแนวนอนและจัดการช่องว่าง */
+    .social-links {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
+
+    /* ปรับการเว้นระยะระหว่างลิงก์และไอคอน */
+    .social-links img {
+        margin-bottom: 0;
+    }
+</style>
+
+<div>
     <a href="https://www.linkedin.com/in/supawit-sang/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
