@@ -65,7 +65,7 @@ I'm a passionate student at KMITL, specializing in Applied Mathematics within th
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
 #### IDEs and Tools
-![](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,eclipse)
+![](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,eclipse)
 
 ## :fire: My Stats 
 
