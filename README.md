@@ -1,6 +1,6 @@
 <div align="center">
     
-# Hi My name is Supawich Sangrattanayon👋</div>
+# Hi My name is Supawich Sangrattanayon👋
 
 ## Student at King Mongkut's Institute of Technology Ladkrabang
 
