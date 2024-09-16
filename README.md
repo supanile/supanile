@@ -43,7 +43,6 @@ I'm a passionate student at KMITL, specializing in Applied Mathematics within th
 * 🌍 I'm based in Bangkok, Thailand
 * 🖥️ See my portfolio at [Click!](#)
 * ✉️ You can contact me at supawit.nile@gmail.com
-* 🚀 Skills: JavaScript, Python, React, Node.js, SQL, RESTful APIs
 * 🔭 I'm currently working on [A Full-Stack Web Application]
 * 🌱 I'm currently learning [Docker and Kubernetes]
 * 👯 I'm looking to collaborate on open-source projects and innovative web applications
