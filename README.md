@@ -1,12 +1,12 @@
-# <div align="center">Hi My name is Supawich Sangrattanayon👋</div>
-
 <div align="center">
+    
+# Hi My name is Supawich Sangrattanayon👋</div>
 
 ## Student at King Mongkut's Institute of Technology Ladkrabang
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb282N3h2cWlwaHd6ZW1yM3g3MXE0NWw0YWh1enJtdDZxbHZjN3R0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 
-<div class="social-links" target="_blank">
+<div class="social-links">
     <a href="https://www.linkedin.com/in/supawit-sang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://x.com/supanile" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
     <a href="https://www.instagram.com/revernire/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
