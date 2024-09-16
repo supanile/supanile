@@ -43,17 +43,16 @@ I'm a passionate student at KMITL, specializing in Applied Mathematics within th
 ## 💻 Skills and Tools 
 
 #### Frontend
-![](https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind,materialui,jquery)
+![](https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind,materialui,jquery,flutter,kotlin)
 
 #### Backend
-![](https://skillicons.dev/icons?i=nodejs,express,php,spring,rails,go)
+![](https://skillicons.dev/icons?i=nodejs,express,php,spring,ruby,rails,go,java,c,cpp)
 
 #### Database
-![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite)
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
-#### Other Tools
-![](https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws,gcp,figma,postman)
-
+#### IDEs and Tools
+![](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,eclipse)
 
 ## :fire: My Stats 
 
