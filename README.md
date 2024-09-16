@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/revernire/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.facebook.com/nnninenoiz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
     <a href="https://www.tiktok.com/@supawitsaeng" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-    <a href="https://discord.com/users/YourDiscordUsername" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://discord.com/users/525156998401097741" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=supanile&style=flat-square&color=blue" alt="account counter"/>
 </div>
