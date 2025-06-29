@@ -36,7 +36,7 @@
   
 ## :woman_technologist: About Me 
 
-I'm a passionate student at KMITL, specializing in Applied Mathematics within the Faculty of Science. My goal is to become a proficient Full-Stack Developer, combining my mathematical background with a love for coding. Currently on a journey of learning and growth in the world of software development.
+I'm a recent graduate from KMITL with a degree in Applied Mathematics. I'm passionate about Full-Stack Development, combining my mathematical background with coding skills to create innovative solutions. I love exploring new technologies, writing clean code, and building applications that make a difference.
 
 </div>
 
