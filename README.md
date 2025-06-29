@@ -58,7 +58,7 @@ I'm a passionate student at KMITL, specializing in Applied Mathematics within th
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,bootstrap,tailwind,materialui,jquery)
 
 #### Backend
-![](https://skillicons.dev/icons?i=nodejs,express,java,spring,php,go,java,c)
+![](https://skillicons.dev/icons?i=nodejs,express,java,spring)
 
 #### Database
 ![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
