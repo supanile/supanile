@@ -1,77 +1,66 @@
 <div align="center">
-    
-# Hi My name is Supawich Sangrattanayon👋
 
-## Student at King Mongkut's Institute of Technology Ladkrabang
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Supawich%20Sangrattanayon&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bangkok%2C%20Thailand&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb282N3h2cWlwaHd6ZW1yM3g3MXE0NWw0YWh1enJtdDZxbHZjN3R0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+<a href="https://www.linkedin.com/in/supawit-sang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/supanile" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/revernire/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/nnninenoiz" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@supawitsaeng" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://discord.com/users/525156998401097741" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-<div style="display: flex; gap: 10px; align-items: center;">
-    <a href="https://www.linkedin.com/in/supawit-sang/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/supanile" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-    </a>
-    <a href="https://www.instagram.com/revernire/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/nnninenoiz" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="https://www.tiktok.com/@supawitsaeng" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-    </a>
-    <a href="https://discord.com/users/525156998401097741" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=supanile&style=flat-square&color=blue" alt="account counter"/>
-</div>
-
+<img src="https://komarev.com/ghpvc/?username=supanile&style=flat-square&color=3B82F6" alt="Profile views"/>
 
 </div>
 
-<div align="center">
-  
-## :woman_technologist: About Me 
+---
 
-I'm a recent graduate from KMITL with a degree in Applied Mathematics. I'm passionate about Full-Stack Development, combining my mathematical background with coding skills to create innovative solutions. I love exploring new technologies, writing clean code, and building applications that make a difference.
+## 👨‍💻 About Me
 
-</div>
+Full-Stack Developer with 1 year of professional experience at a startup, holding a degree in **Applied Mathematics from KMITL**. I bridge mathematical thinking with modern web development — writing clean, scalable code and shipping products that actually matter.
 
-* 🌍 I'm based in Bangkok, Thailand
-* 🖥️ See my portfolio at [Click!](#)
-* ✉️ You can contact me at supawit.nile@gmail.com
-* 🔭 I'm currently working on [A Full-Stack Web Application]
-* 🌱 I'm currently learning [Docker and Kubernetes]
-* 👯 I'm looking to collaborate on open-source projects and innovative web applications
-* 🥅 2024 Goals: Finish Internship for 6 months!
-* ⚡ Fun fact: I can type at a speed of 60 words per minute!
-* 🗣 Languages: Thai (Native), English (B1)
+- 🌍 Based in **Bangkok, Thailand**
+- 🚀 Currently working as a **Full-Stack Developer** at a Startup
+- 🔭 Building full-stack web applications in production
+- 🌱 Currently leveling up with **Docker & Kubernetes**
+- 🤝 Open to collaborating on **open-source** and **innovative web projects**
+- 📬 Reach me at **supawit.nile@gmail.com**
+- 🌐 Portfolio: [Visit](#)
+- 🗣️ Languages: **Thai** (Native) · **English** (B1)
+- ⚡ Fun fact: 60 WPM typer — fast enough to keep up with my thoughts
 
-<div align="center">
-  
-## 💻 Skills and Tools 
+---
+
+## 🛠️ Tech Stack
 
 #### Frontend
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,bootstrap,tailwind,materialui,jquery)
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,astro,tailwind,bootstrap,materialui)
 
 #### Backend
 ![](https://skillicons.dev/icons?i=nodejs,express,java,spring)
 
 #### Database
-![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
+![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
-#### IDEs and Tools
-![](https://skillicons.dev/icons?i=vscode,eclipse,git,github,postman,figma)
+#### DevOps & Tools
+![](https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman)
 
-## :fire: My Stats 
+---
 
-![Supanile's GitHub stats](https://github-readme-stats.vercel.app/api?username=supanile&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supanile&theme=tokyonight&background=1a1b27)](https://git.io/streak-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supanile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Supawich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supanile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=supanile&theme=tokyonight&hide_border=true&background=0d1117)](https://streak-stats.demolab.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supanile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=100&section=footer" width="100%"/>
 </div>
