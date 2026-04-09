@@ -51,8 +51,8 @@ Full-Stack Developer with 1 year of professional experience at a startup, holdin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api?username=supanile&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
-<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api/top-langs/?username=supanile&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api?username=supanile&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,issues&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
+<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api/top-langs/?username=supanile&layout=compact&langs_count=6&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
 </div>
 
