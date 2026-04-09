@@ -51,11 +51,20 @@ Full-Stack Developer with 1 year of professional experience at a startup, holdin
 
 <div align="center">
 
-![Supawich's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supanile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api?username=supanile&show_icons=true&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
+<img height="180em" src="https://github-readme-stats-liard-chi-46.vercel.app/api/top-langs/?username=supanile&layout=compact&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=supanile&theme=tokyonight&hide_border=true&background=0d1117)](https://streak-stats.demolab.com)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supanile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=supanile&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=supanile&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
